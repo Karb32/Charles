@@ -109,8 +109,11 @@ Task:
  ⁃ Сделать через Charles так, чтобы сервер вернул 405 ошибку.
  ⁃ Подменить salary в request
  ⁃ Подменить (salary * 2) в response
+ 
  <img src="https://github.com/Karb32/Charles/blob/main/Charles/5.1.png" width="600" height="300"/>
+ 
  <img src="https://github.com/Karb32/Charles/blob/main/Charles/5.2.png" width="600" height="300"/>
+ 
  <img src="https://github.com/Karb32/Charles/blob/main/Charles/5.3.png" width="600" height="300"/>
 
 # Ex_6:
