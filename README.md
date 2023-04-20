@@ -20,7 +20,6 @@ Task: Сделать и в Rewrite, и в BreakPoint (можно отключи�
 
 
 <img src="https://github.com/Karb32/Charles/blob/main/Charles/1.png" width="600" height="300"/>
-<img src="" width="600" height="300"/>
   
 # Ex_2:
 Method: POST
