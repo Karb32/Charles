@@ -42,7 +42,6 @@ Task:
  ⁃ Подменить body в Charles так чтобы в запросе ушла salary которую вы вписали в Postman, а в u_salary_1_5_year цифра вернулась меньше оригинальной из запроса.
  
  <img src="https://github.com/Karb32/Charles/blob/main/Charles/2.png" width="600" height="300"/>
-<img src="" width="600" height="300"/>
 
 # Ex_3:
 Method: GET
@@ -63,7 +62,6 @@ Task:
  ⁃ Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
 
  <img src="https://github.com/Karb32/Charles/blob/main/Charles/3.png" width="600" height="300"/>
-<img src="" width="600" height="300"/>
 
 # Ex_4:
 Method: GET
